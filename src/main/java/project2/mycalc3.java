@@ -13,6 +13,9 @@ public class mycalc3 {
 	public int div(int a, int b) {
 		return a/b;
 	}
+	public void show() {
+		System.out.println("hii i am naurez");
+	}
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		mycalc3 c=new mycalc3();
